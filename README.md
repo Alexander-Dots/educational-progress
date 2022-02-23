@@ -1,2 +1,1 @@
-# educational-progress
-my educational progress
+# Мой прогресс обучения
